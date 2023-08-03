@@ -1,4 +1,4 @@
-# Task3
+# Third task
 
 ## The use of object recognition technology to identify the objects that the robot can meet by using Teachable Machine
 
@@ -16,6 +16,9 @@
 
 ##### 2- After that, I renewed how many classes I wanted. I chose three classes, a class for orange, a class for bananas, and a class for strawberries, and uploaded pictures of the three fruits from the image file:
 
+<img width="320" alt="T32" src="https://github.com/Worod44/Task3/assets/95488818/c7ba819e-3c0c-452c-b007-4156e0ee8078">
+<img width="320" alt="T33" src="https://github.com/Worod44/Task3/assets/95488818/ee4e934b-cd82-4b91-af49-3f55f108e0f4">
+<img width="320" alt="T34" src="https://github.com/Worod44/Task3/assets/95488818/4c5e30c0-8d9f-4398-ae6d-0b3b42a90ecb">
 
 
 
@@ -23,11 +26,15 @@
 
 ##### 3- Third, I pressed the "Training" button to train the three classes to the machine:
 
+<img width="500" alt="T34" src="https://github.com/Worod44/Task3/assets/95488818/4c5e30c0-8d9f-4398-ae6d-0b3b42a90ecb">
+
 
 
 
 
 ##### 4- Then, I uploaded a picture of the orange fruit, different from the pictures that I uploaded of the orange class, to test the training of the machine. Was it done correctly or not? 
+
+<img width="300" alt="T35" src="https://github.com/Worod44/Task3/assets/95488818/3d78f800-19af-4311-9b04-a76701dd2520">
 
 
 
@@ -39,6 +46,11 @@
 ##### 5- Finally, I uploaded a picture of strawberry and banana fruit to verify whether the machine will be able to distinguish the two fruits together or not ?
 
 
+<img width="300" alt="T36" src="https://github.com/Worod44/Task3/assets/95488818/dad162b0-b455-4613-aae6-f621baa8738c">
+
+
+<img width="500" alt="T37" src="https://github.com/Worod44/Task3/assets/95488818/58e905f2-d22e-4f5a-a91c-1ae4e11d21aa">
+
 
 ###### The result is not very good and accurate, but we can say that she was able to distinguish that
 
@@ -47,6 +59,9 @@
 
 
 ### Next, I exported the training code using two programming languages, Java and Python
+
+<img width="605" alt="T38" src="https://github.com/Worod44/Task3/assets/95488818/5761d21a-65a1-4cf5-976d-27259a9e7388">
+
 
 #### Java language:
 ```
