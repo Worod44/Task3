@@ -10,7 +10,7 @@
 
 ##### 1- First, enter the machine learning from Google, then create a new project using the image project:
 
-
+<img width="500" alt="T31" src="https://github.com/Worod44/Task3/assets/95488818/584e15a3-c347-48f7-851e-a5537cba582d">
 
 
 
